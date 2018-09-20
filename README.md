@@ -6,6 +6,7 @@ http-equiv="content-type">
 <style type="text/css">
 body {
 }
+
 </style>
 </head>
 <body style="background-image: url(wallpaper2you_410841.jpg);">
@@ -47,15 +48,3 @@ style="color: rgb(200, 200, 200);">Основное фото и видео</span
 </p>
 </body>
 </html>
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
