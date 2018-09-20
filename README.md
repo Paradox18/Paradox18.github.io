@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-http-equiv="content-type">
 <title>Порадокс</title>
 <style type="text/css">
 body {
